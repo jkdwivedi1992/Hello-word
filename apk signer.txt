@@ -1,0 +1,189 @@
+
+/******** APK dgim 17 3.0 ********************/
+
+Owner: CN=Springer Medizin, OU=, O=bsmo GmbH, C=DE
+Issuer: CN=Springer Medizin, OU=, O=bsmo GmbH, C=DE
+Serial number: 2d34313933373133343a31333638333533396130383a2d38303030
+Valid from: Wed Apr 04 21:55:56 IST 2012 until: Sun Apr 05 21:55:56 IST 2037
+Certificate fingerprints:
+	 MD5:  A1:F7:B1:F4:70:88:65:47:19:8E:24:34:16:2D:B1:D6
+	 SHA1: 01:01:9E:41:AE:78:61:4B:F2:25:4D:E4:BF:AB:D2:AD:E0:0F:F3:59
+	 SHA256: 83:61:BB:BF:B8:6D:57:33:3B:C2:A3:0A:34:21:31:85:68:48:CD:DF:7F:85:ED:30:A4:6D:3F:07:20:79:F1:D0
+	 Signature algorithm name: SHA1withRSA
+	 Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  codeSigning
+]
+
+
+/******** APK dgim 18 3.1 ********************/
+
+Owner: CN=Springer Medizin, OU=, O=bsmo GmbH, C=DE
+Issuer: CN=Springer Medizin, OU=, O=bsmo GmbH, C=DE
+Serial number: 2d34313933373133343a31333638333533396130383a2d38303030
+Valid from: Wed Apr 04 21:55:56 IST 2012 until: Sun Apr 05 21:55:56 IST 2037
+Certificate fingerprints:
+	 MD5:  A1:F7:B1:F4:70:88:65:47:19:8E:24:34:16:2D:B1:D6
+	 SHA1: 01:01:9E:41:AE:78:61:4B:F2:25:4D:E4:BF:AB:D2:AD:E0:0F:F3:59
+	 SHA256: 83:61:BB:BF:B8:6D:57:33:3B:C2:A3:0A:34:21:31:85:68:48:CD:DF:7F:85:ED:30:A4:6D:3F:07:20:79:F1:D0
+	 Signature algorithm name: SHA1withRSA
+	 Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  codeSigning
+]
+
+
+/******** APK dgim 3.2 ********************/
+
+
+Owner: CN=Springer Medizin, OU=, O=bsmo GmbH, C=DE
+Issuer: CN=Springer Medizin, OU=, O=bsmo GmbH, C=DE
+Serial number: 2d34313933373133343a31333638333533396130383a2d38303030
+Valid from: Wed Apr 04 21:55:56 IST 2012 until: Sun Apr 05 21:55:56 IST 2037
+Certificate fingerprints:
+	 MD5:  A1:F7:B1:F4:70:88:65:47:19:8E:24:34:16:2D:B1:D6
+	 SHA1: 01:01:9E:41:AE:78:61:4B:F2:25:4D:E4:BF:AB:D2:AD:E0:0F:F3:59
+	 SHA256: 83:61:BB:BF:B8:6D:57:33:3B:C2:A3:0A:34:21:31:85:68:48:CD:DF:7F:85:ED:30:A4:6D:3F:07:20:79:F1:D0
+	 Signature algorithm name: SHA1withRSA
+	 Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  codeSigning
+]
+
+
+online sha1     b19bc20c590b69d926f75f9ca6959a32d94d99f5 
+
+/******** dgim uploaded 3.2 **************************/
+
+
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 531fbca6
+Valid from: Tue Dec 01 11:44:43 IST 2015 until: Thu Nov 23 11:44:43 IST 2045
+Certificate fingerprints:
+	 MD5:  10:E0:8B:3D:47:C3:9D:12:91:72:BE:D8:20:39:D0:A2
+	 SHA1: 70:9E:B9:0A:2A:3B:CA:45:30:2A:CF:55:19:74:2B:43:1C:2B:EB:06
+	 SHA256: 91:C5:80:C5:9B:B7:E3:D2:AD:FE:2D:BD:D4:38:AA:44:B8:6D:AA:7C:68:65:F6:79:F0:57:67:E6:BB:D2:22:BD
+	 Signature algorithm name: SHA256withRSA
+	 Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 8E BB 09 1F F8 7C 56 66   45 58 E6 B1 C0 B2 1F 4F  ......VfEX.....O
+0010: 3A AE 5D 7B                                        :.].
+]
+]
+
+
+
+
+
+/**** apk 3.3 debug certificate*********************/
+
+
+
+app/app-debug/META-INF/CERT.RSA 
+Owner: CN=Springer Medizin, OU=, O=bsmo GmbH, C=DE
+Issuer: CN=Springer Medizin, OU=, O=bsmo GmbH, C=DE
+Serial number: 2d34313933373133343a31333638333533396130383a2d38303030
+Valid from: Wed Apr 04 21:55:56 IST 2012 until: Sun Apr 05 21:55:56 IST 2037
+Certificate fingerprints:
+	 MD5:  D4:AB:7B:98:E7:D8:FD:7B:88:FC:5E:0A:9D:CA:AE:FA
+	 SHA1: 40:E7:FC:AD:DF:4B:D1:0C:35:9F:94:7D:E7:23:91:A1:F9:3D:C9:D8
+	 SHA256: 1D:74:DA:87:C9:5D:C0:E2:CC:A5:45:E1:26:93:D5:45:51:13:64:5C:D5:C6:63:5B:0B:B2:68:75:34:98:6F:51
+	 Signature algorithm name: SHA1withRSA
+	 Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  codeSigning
+]
+
+
+
+/******** APK 3.3 1.certificate ********************/
+
+
+
+Owner: CN=Springer Medizin, OU=, O=bsmo GmbH, C=DE
+Issuer: CN=Springer Medizin, OU=, O=bsmo GmbH, C=DE
+Serial number: 2d34313933373133343a31333638333533396130383a2d38303030
+Valid from: Wed Apr 04 21:55:56 IST 2012 until: Sun Apr 05 21:55:56 IST 2037
+Certificate fingerprints:
+	 MD5:  D4:AB:7B:98:E7:D8:FD:7B:88:FC:5E:0A:9D:CA:AE:FA
+	 SHA1: 40:E7:FC:AD:DF:4B:D1:0C:35:9F:94:7D:E7:23:91:A1:F9:3D:C9:D8
+	 SHA256: 1D:74:DA:87:C9:5D:C0:E2:CC:A5:45:E1:26:93:D5:45:51:13:64:5C:D5:C6:63:5B:0B:B2:68:75:34:98:6F:51
+	 Signature algorithm name: SHA1withRSA
+	 Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  codeSigning
+]
+
+
+
+
+:/Users/BBIUSER1010/Documents/android/android-sdk-macosx/build-tools/24.0.2 
+
+/*******     certificate *********/
+Keystore type: JKS
+Keystore provider: SUN
+
+Your keystore contains 2 entries
+
+2, 12 Dec, 2016, PrivateKeyEntry, 
+Certificate fingerprint (SHA1): 50:E3:BF:10:22:3D:D9:5E:22:EC:BD:59:86:61:C2:FF:68:06:B8:02
+1, 13 Apr, 2012, PrivateKeyEntry, 
+Certificate fingerprint (SHA1): 01:01:9E:41:AE:78:61:4B:F2:25:4D:E4:BF:AB:D2:AD:E0:0F:F3:59
+
+
+
+
+
+
+
+/******   make manual apk sign  8********************************/
+
+
+create a unsigned apk
+then extract it with zip file 
+and delete metainf folder
+now create again it as apk
+now signed with fallowing commond
+
+
+
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore springer.med.keystore app-release.apk 1
+
+zipalign 4 -p my.apk my-aligned.apk
+
+
+http://stackoverflow.com/questions/10930331/how-to-sign-an-already-compiled-apk
+link
+
+
+
+http://stackoverflow.com/questions/10930331/how-to-sign-an-already-compiled-apk
+link
+
+
